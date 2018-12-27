@@ -3,7 +3,7 @@
 ## Simulator
 ### Car/Truck
 - [Autodrome](https://github.com/vojtamolda/autodrome)
--- combine the truck simulator around the world  
+  - combine the truck simulator around the world  
 - [Euro Truck](https://eurotrucksimulator2.com/)
 - [American Truck](https://americantrucksimulator.com/)
 - [Deep Drive](https://github.com/deepdrive/deepdrive)
