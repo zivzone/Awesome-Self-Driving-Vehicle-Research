@@ -8,6 +8,9 @@
 - [American Truck](https://americantrucksimulator.com/)
 - [Deep Drive](https://github.com/deepdrive/deepdrive)
 - [Euro Pilot](https://github.com/marsauto/europilot)
+### Drone
+- [Airsim](https://github.com/Microsoft/AirSim)
+  - also have car
 ### Project/Company
 - [Waymo](https://waymo.com/tech/)
 - [ZOOX](https://zoox.com/)
