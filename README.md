@@ -11,3 +11,4 @@
 ### Project/Company
 - [Waymo](https://waymo.com/tech/)
 - [ZOOX](https://zoox.com/)
+- [Kitty Hawk](https://kittyhawk.aero/)
