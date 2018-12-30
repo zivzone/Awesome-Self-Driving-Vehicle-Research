@@ -1,5 +1,6 @@
 # Awesome Self-Driving-Vehicle-Research
 - **the related research, paper or project**
+- **If you like this repo, please give me a star <(_._)>**
 ## Simulator
 ### Car/Truck
 - [Autodrome](https://github.com/vojtamolda/autodrome)
@@ -15,3 +16,4 @@
 - [Waymo](https://waymo.com/tech/)
 - [ZOOX](https://zoox.com/)
 - [Kitty Hawk](https://kittyhawk.aero/)
+- [Argo AI](https://www.argo.ai/)
