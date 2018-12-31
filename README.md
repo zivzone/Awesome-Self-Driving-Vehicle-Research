@@ -17,3 +17,4 @@
 - [ZOOX](https://zoox.com/)
 - [Kitty Hawk](https://kittyhawk.aero/)
 - [Argo AI](https://www.argo.ai/)
+- [A](https://www.aptiv.com/)
