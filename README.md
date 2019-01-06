@@ -1,6 +1,6 @@
 # Awesome Self-Driving-Vehicle-Research
 - **the related research, paper or project**
-- **If you like this repo, please give me a star <(_._)>**
+- **If you like this repo, please give me a star < ( _ . _ ) >**
 ## Simulator
 ### Car/Truck
 - [Autodrome](https://github.com/vojtamolda/autodrome)
@@ -18,3 +18,9 @@
 - [Kitty Hawk](https://kittyhawk.aero/)
 - [Argo AI](https://www.argo.ai/)
 - [A](https://www.aptiv.com/)
+
+## Course
+- [Udacity Self-Driving-Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+  - Self-driving cars are set to revolutionize the way we live. This is transformational technology, on the cutting-edge of robotics, machine learning, software engineering, and mechanical engineering. In this program, you’ll learn the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.
+- [Udacity Flying Car and Autonomous Flight Engineer Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787)
+  - Master autonomous flight software engineering skills as you build your career in flying cars and drone robotics. 
