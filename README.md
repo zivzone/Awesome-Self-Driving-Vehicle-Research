@@ -17,7 +17,7 @@
 - [ZOOX](https://zoox.com/)
 - [Kitty Hawk](https://kittyhawk.aero/)
 - [Argo AI](https://www.argo.ai/)
-- [A](https://www.aptiv.com/)
+- [Aptiv](https://www.aptiv.com/)
 
 ## Course
 - [Udacity Self-Driving-Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
