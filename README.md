@@ -28,5 +28,5 @@
 ## Paper
 - [2018 IROS AI drone Racing](https://www.youtube.com/watch?v=9AvJ3-n-82w)
   - [Paper](https://arxiv.org/abs/1810.06224) : Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing
-- DroNet: Learning to Fly by Driving
+- [DroNet: Learning to Fly by Driving](https://www.youtube.com/watch?v=ow7aw9H4BcA&feature=youtu.be)
 
