@@ -31,3 +31,5 @@
 - [DroNet: Learning to Fly by Driving](https://www.youtube.com/watch?v=ow7aw9H4BcA&feature=youtu.be)
 
 ## Contest
+- [IROS Autonomous Drone Racing](https://www.youtube.com/watch?v=9AvJ3-n-82w)
+- [Alpha Pilot](https://www.herox.com/alphapilot) 
