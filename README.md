@@ -30,3 +30,4 @@
   - [Paper](https://arxiv.org/abs/1810.06224) : Beauty and the Beast: Optimal Methods Meet Learning for Drone Racing
 - [DroNet: Learning to Fly by Driving](https://www.youtube.com/watch?v=ow7aw9H4BcA&feature=youtu.be)
 
+## Contest
