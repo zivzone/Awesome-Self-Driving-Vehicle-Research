@@ -18,6 +18,7 @@
 - [Kitty Hawk](https://kittyhawk.aero/)
 - [Argo AI](https://www.argo.ai/)
 - [Aptiv](https://www.aptiv.com/)
+- [Zrich](http://rpg.ifi.uzh.ch/research_mav.html)
 
 ## Course
 - [Udacity Self-Driving-Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
