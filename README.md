@@ -36,5 +36,5 @@
 - [Alpha Pilot](https://www.herox.com/alphapilot) 
 - [Roborace](https://roborace.com/)
 
-## Tool/Software
+## Tool/Software/Resource
 - [ROS](http://wiki.ros.org/ROS/StartGuide)
