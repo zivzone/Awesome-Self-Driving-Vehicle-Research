@@ -46,6 +46,7 @@
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/)
   -  the largest dataset for self-driving AI and contains over 100,000 videos of over 1,100-hour driving events across different times of the day, and varying weather conditions.
 - [Baidu Apolloscapes](http://apolloscape.auto/)
+  - This large dataset defines 26 distinct semantic items such as cars, bicycles, pedestrians, street lights, etc
 - [Comma.ai](https://archive.org/details/comma-dataset)
 - [Oxford’s Robotic Car](https://robotcar-dataset.robots.ox.ac.uk/)
 - [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)
