@@ -44,6 +44,7 @@
 - [KITTI](http://www.cvlibs.net/datasets/kitti/)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/)
+  -  the largest dataset for self-driving AI and contains over 100,000 videos of over 1,100-hour driving events across different times of the day, and varying weather conditions.
 - [Baidu Apolloscapes](http://apolloscape.auto/)
 - [Comma.ai](https://archive.org/details/comma-dataset)
 - [Oxford’s Robotic Car](https://robotcar-dataset.robots.ox.ac.uk/)
