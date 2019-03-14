@@ -46,3 +46,6 @@
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/)
 - [Baidu Apolloscapes](http://apolloscape.auto/)
 - [Comma.ai](https://archive.org/details/comma-dataset)
+- [Oxford’s Robotic Car](https://robotcar-dataset.robots.ox.ac.uk/)
+- [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)
+- [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html)
