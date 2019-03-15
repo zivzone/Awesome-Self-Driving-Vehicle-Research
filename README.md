@@ -52,6 +52,11 @@
     - Lane segmentation 
     - Self localisation
 - [Comma.ai](https://archive.org/details/comma-dataset)
+  - This dataset contains more than seven hours of highway driving for you to use in your projects.Details included within the dataset are:
+    - The speed of the car
+    - The acceleration
+    - The steering angle
+    - GPS coordinates
 - [Oxford’s Robotic Car](https://robotcar-dataset.robots.ox.ac.uk/)
 - [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)
 - [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html)
