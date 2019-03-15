@@ -43,8 +43,9 @@
 ### Dataset
 - [KITTI](http://www.cvlibs.net/datasets/kitti/)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
+  - A large dataset that records urban street scenes in 50 different cities,with high quality pixel-level annotations of 5,000 frames, in addition to a larger set of 20,000 weakly annotated frames.  
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/)
-  -  the largest dataset for self-driving AI and contains over 100,000 videos of over 1,100-hour driving events across different times of the day, and varying weather conditions.
+  - The largest dataset for self-driving AI and contains over 100,000 videos of over 1,100-hour driving events across different times of the day, and varying weather conditions.
 - [Baidu Apolloscapes](http://apolloscape.auto/)
   - This large dataset defines 26 distinct semantic items such as cars, bicycles, pedestrians, street lights, etc
     - Scene sparsing
