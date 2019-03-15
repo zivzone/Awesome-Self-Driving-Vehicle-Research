@@ -58,5 +58,6 @@
     - The steering angle
     - GPS coordinates
 - [Oxford’s Robotic Car](https://robotcar-dataset.robots.ox.ac.uk/)
+  - This dataset contains over 100 repetitions of the same route through Oxford, UK, captured over one year with different combinations of weather, traffic and pedestrians, along with long-term changes such as construction and roadworks.
 - [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)
 - [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html)
