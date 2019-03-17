@@ -12,6 +12,7 @@
 ### Drone
 - [Airsim](https://github.com/Microsoft/AirSim)
   - also have car
+- [DRL Drone Racing Simulator](https://thedroneracingleague.com/2019-tryouts/)
 ### Project/Company/Organization
 - [Waymo](https://waymo.com/tech/)
 - [ZOOX](https://zoox.com/)
