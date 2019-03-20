@@ -13,6 +13,9 @@
 - [Airsim](https://github.com/Microsoft/AirSim)
   - also have car
 - [DRL Drone Racing Simulator](https://thedroneracingleague.com/2019-tryouts/)
+- [Hotprops](https://www.youtube.com/watch?v=jwPGgw20pno)
+- [Real Drone Simulator](https://www.realdronesimulator.com/)
+- [Heli-X Flight Simulator](http://www.heli-x.info/cms/)
 ### Project/Company/Organization
 - [Waymo](https://waymo.com/tech/)
 - [ZOOX](https://zoox.com/)
