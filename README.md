@@ -1,5 +1,5 @@
 # Awesome Self-Driving-Vehicle-Research
-- **the related research, paper or project**
+- **the related research, paper, resource or project**
 - **If you like this repo, please give me a star < ( _ . _ ) >**
 ## Simulator
 ### Car/Truck
