@@ -24,7 +24,7 @@
 - [Aptiv](https://www.aptiv.com/)
 - [Zrich](http://rpg.ifi.uzh.ch/research_mav.html)
 - [Comma.ai](https://comma.ai/)
-
+- [oToBrite](https://www.otobrite.com/)
 ## Course
 - [Udacity Self-Driving-Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
   - Self-driving cars are set to revolutionize the way we live. This is transformational technology, on the cutting-edge of robotics, machine learning, software engineering, and mechanical engineering. In this program, you’ll learn the skills and techniques used by self-driving car teams at the most advanced technology companies in the world.
