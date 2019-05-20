@@ -37,6 +37,7 @@
 - [DroNet: Learning to Fly by Driving](https://www.youtube.com/watch?v=ow7aw9H4BcA&feature=youtu.be)
 - [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 - [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](https://github.com/mileyan/pseudo_lidar)
+- [Inverse reinforcement learning control for trajectory tracking of a multirotor UAV](https://link.springer.com/article/10.1007/s12555-015-0483-3)
 ## Contest
 - [IROS Autonomous Drone Racing](https://www.youtube.com/watch?v=9AvJ3-n-82w)
 - [Alpha Pilot](https://www.herox.com/alphapilot) 
