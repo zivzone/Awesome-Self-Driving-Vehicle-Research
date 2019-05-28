@@ -16,6 +16,7 @@
 - [Hotprops](https://www.youtube.com/watch?v=jwPGgw20pno)
 - [Real Drone Simulator](https://www.realdronesimulator.com/)
 - [Heli-X Flight Simulator](http://www.heli-x.info/cms/)
+- [Rotors](https://github.com/ethz-asl/rotors_simulator)
 ### Project/Company/Organization
 - [Waymo](https://waymo.com/tech/)
 - [ZOOX](https://zoox.com/)
