@@ -47,6 +47,7 @@
 
 ## Tool/Software/Resource
 - [ROS](http://wiki.ros.org/ROS/StartGuide)
+  - [Chinese Tutorial/Note](https://ithelp.ithome.com.tw/articles/10200551)
 
 ### Dataset
 - [KITTI](http://www.cvlibs.net/datasets/kitti/)
