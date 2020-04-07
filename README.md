@@ -50,6 +50,7 @@
   - [Chinese Tutorial/Note](https://ithelp.ithome.com.tw/articles/10200551)
 
 ### Dataset
+- [nuScene](https://www.nuscenes.org/)
 - [KITTI](http://www.cvlibs.net/datasets/kitti/)
 - [Cityscapes](https://www.cityscapes-dataset.com/)
   - A large dataset that records urban street scenes in 50 different cities,with high quality pixel-level annotations of 5,000 frames, in addition to a larger set of 20,000 weakly annotated frames.  
