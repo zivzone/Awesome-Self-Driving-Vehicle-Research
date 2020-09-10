@@ -44,6 +44,7 @@
 - [IROS Autonomous Drone Racing](https://www.youtube.com/watch?v=9AvJ3-n-82w)
 - [Alpha Pilot](https://www.herox.com/alphapilot) 
 - [Roborace](https://roborace.com/)
+- NeurIPS AI Olympics
 
 ## Tool/Software/Resource
 - [ROS](http://wiki.ros.org/ROS/StartGuide)
