@@ -12,6 +12,8 @@
 ### Drone
 - [Airsim](https://github.com/Microsoft/AirSim)
   - also have car
+  - have some competition and benchmark
+    - NeurIPS 2019 Game of Drone
 - [DRL Drone Racing Simulator](https://thedroneracingleague.com/2019-tryouts/)
 - [Hotprops](https://www.youtube.com/watch?v=jwPGgw20pno)
 - [Real Drone Simulator](https://www.realdronesimulator.com/)
